@@ -1,8 +1,8 @@
-# StoryBooks
+# Coding Valley Blogs Website
 
-> Create public and private stories from your life
+> Write amazing articals for dev community
 
-This app uses Node.js/Express/MongoDB with Google OAuth for authentication
+This website uses Node.js/Express/MongoDB technologies with Google OAuth for authentication
 
 ## Usage
 
